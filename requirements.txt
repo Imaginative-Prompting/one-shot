@@ -1,0 +1,9 @@
+# The tools' Python packages. tools/check_setup.py --install makes .venv/ and installs these.
+numpy>=2.0
+scipy>=1.12
+pillow>=10.0
+opencv-python-headless>=4.9
+mido>=1.3
+pronouncing>=0.2
+# Whisper (one of these; check_setup.py picks): on Apple silicon the mlx-whisper command
+# (uv tool install mlx-whisper); elsewhere faster-whisper (pip install faster-whisper).

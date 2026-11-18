@@ -1,0 +1,9 @@
+films/*
+!films/README.md
+settings.local.json
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+*.blend1
+.venv/

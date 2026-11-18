@@ -1,0 +1,18 @@
+{
+  "_about": "Copy to settings.local.json (not in git) and fill in what you have. Every field is optional.",
+  "wip": {
+    "config": "/path/to/your-wip-workspace/wip.json",
+    "bin": "/path/to/wip/bin/wip.mjs",
+    "projectPrefix": "one-shot-"
+  },
+  "gpu": {
+    "wrapper": null,
+    "_wrapper_example": "python3 /path/to/your/gpu-queue.py run --who one-shot --label {label} -- {command}"
+  },
+  "whisper": {
+    "backend": "auto",
+    "model": null
+  },
+  "pickWindowMinutes": 30,
+  "_pickWindowMinutes": "after this long with no pick, the run reminds the person once; it never picks for them"
+}
