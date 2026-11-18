@@ -2,9 +2,9 @@
 
 Everything I wrote for this one, and the full direction that Claude and Codex each made their music video from.
 
-- Claude's film: LINK
-- Codex's film: LINK
-- What I'd change in each one: LINK
+- Claude's film: https://www.youtube.com/watch?v=lOzNg0pUnmU
+- Codex's film: https://www.youtube.com/watch?v=xW3cD6YALIM
+- What I'd change in each one: https://www.youtube.com/watch?v=HqhIITgB9c4
 
 ## What I wrote
 
